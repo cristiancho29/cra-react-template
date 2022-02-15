@@ -1,0 +1,7 @@
+.vscode
+**/*.css
+README.md
+tsconfig.json
+src/reportWebVitals.ts
+build/**/*
+/coverage
